@@ -1,0 +1,11 @@
+Explicacion de conceptos:
+
+Variables: Es un espacio en memoria que puede tener el valor que tu consideres, por ejemplo: x = "Pedro", la variable x
+tiene el dato "Pedro" almacenado.
+Strings: Son cadenas de texto, se distinguen en la progración ya que que llevan comillas dobles entre la letra o las letras, por ejemplo: "Juan",
+algunos compiladores tambien aceptaptan collillas simples como Strings; 'Juan'
+Funciones (argumentos, return): Son instruciones que el compilador procesa cada vez que lo "llamamos", esto nos sirve para no repetir ciertas 
+instruciones.
+Declaraciones if: Es un condicional que nos arroja un resultado dependiente de si es cierta o no la condición, por ejemplo: si X es Mayor que Y, estonces
+verdadero o True, de lo contratrio Falso o False.
+Valores booleanos (true, false): Unicamente nos dicen si algo es verdadero o falso. 
