@@ -1,0 +1,10 @@
+Conceptos:
+
+for: Se le conoce como un ciclo, repite n nuemero de veces una instrucción y finanliza al llegar al limite solicitado por el programador.
+Se emplea en el recorrido de vectores, matrices y estructuras, entre otro.
+
+&&, ||, ! : Se les conocen como operadores logicos, nos permiten hacer que na instrucción se cumpla, siempre y cuando tenga ciertos criterios,
+asi, por ejemplo, && quiere decir o se intreperta como Y, en un programa se puede solicitar que se ejecute una instrucción, solo si los parametros
+contienen dos items, si hace falta uno, este programa no funcionara. En el caso de || (o), se ejecutará un programa solo si existe por lo menos
+uno de los dos items activado o solicitado y ! (negación o not), muy usado para declarar diferente de, se ejecuta un programa solo si algún item 
+es diferente de otro. 
