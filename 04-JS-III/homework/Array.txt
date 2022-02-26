@@ -1,0 +1,4 @@
+Concepto
+
+Array: Es como una cajita en la cual se pueden almacer diferentes tipos de datos; enterios, flotantes, Strings, incluso funciones. 
+Una ve declarado el arreglo se puede navegar por el mismo, llamando a algún elemento de forma individual. 
