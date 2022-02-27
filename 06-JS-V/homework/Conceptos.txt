@@ -1,0 +1,4 @@
+Definiciones:
+
+prototype: Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
+Constructors (de Clases): es la función que se utiliza para construir objetos, cada objeto tiene los mismos métodos y las mismas propiedades, aunque estas segundas pueden y suelen tener distintos valores de un objeto a otro. 
