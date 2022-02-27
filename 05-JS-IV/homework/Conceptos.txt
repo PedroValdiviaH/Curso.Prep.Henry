@@ -1,0 +1,14 @@
+Conceptos:
+
+Objetos: Si pensamos en lo que nos rodea, todo podría ser un objeto: un automovil, una computadora, una silla, etc. Dentro de la programación
+podemos entender como objeto a un ente que posee ciertas caracteristicas y funcionalidades que lo distinguen. Así por ejemplo: podemos crear un objeto 
+¨Perro¨, el cual, puede correr, comer, y ladrar, ademas de que tiene catro patas, dos orejas y dos ojos.  
+Propiedades: son características de todos los objetos
+Métodos: son rutinas de código invocables y se crean usando funciones
+Bucle for…in: es una instrucción que itera sobre todas las propiedades enumerables de un objeto que está codificado por cadenas 
+(ignorando los codificados por Símbolos, incluidas las propiedades enumerables heredadas).
+Notación de puntos vs notación de corchetes: 
+
+Cuando usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto 
+(por ejemplo, miMascota.numero de amigos no es válido, pero miMascota["numero de amigos"] sí lo es).
+Si queremos diminuir nuestro código, la notación del punto no es válida... debemos usar la notación de corchetes.
